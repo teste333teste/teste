@@ -1,6 +1,7 @@
 public class hello{
 	public static void main (string args []){
 		System.out.println ("Hello Bye!");
+<<<<<<< HEAD
 		System.out.println ("Funciona!!");
 		System.out.println ("123");
 	}
@@ -16,3 +17,13 @@ public class hello{
 // ;)
 
 >>>>>>> .merge_file_U2oEOr
+=======
+	}
+}
+//Gustavo* s2 strokes
+//rrrrrr testandooooo
+
+
+// TESTANDO NO BRANCH
+//testeteste
+>>>>>>> 875c0ce113a64da04ea82d24e21be70b721d0c4b
