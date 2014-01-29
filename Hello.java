@@ -5,6 +5,9 @@ public class hello{
 		System.out.println ("123");
 	}
 }
-//Gustavo* s2 strokes
+
+//Gustavo* s2 strokes dasdasdas
 //rrrrrr testandooooo
+
 // ;)
+
